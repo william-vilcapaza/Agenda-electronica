@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1658891980 source:c:\users\acer\documents\c++\agenda arboles binarios\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<search.h>
+	<string.h>
+	<conio.h>
+
